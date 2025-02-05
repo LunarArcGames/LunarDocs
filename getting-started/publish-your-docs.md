@@ -6,11 +6,9 @@ icon: wrench
 
 Lunar AI is built with **flexibility** and **modularity** at its core. You can customize and extend its behavior for any on-chain game or decentralized application by defining **Context**, **Actions**, and **Goals**.
 
-<figure><img src="../.gitbook/assets/Landing (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../docs/.gitbook/assets/Landing%20(1).png" alt=""><figcaption></figcaption></figure>
 
 #### [1. Defining Game Context](publish-your-docs.md)
-
-
 
 Context is the foundation of any agent's decision-making process. It describes the game state, rules, and available actions. In Lunar AI, context is represented as a structured **JSON** object.
 
@@ -37,9 +35,7 @@ Example context for a decentralized strategy game:
 
 This context object allows the agent to understand the current game environment, the player's resources, and the rules it must follow.
 
-#### [2. Registering Complex Actions](../)
-
-
+#### [2. Registering Complex Actions](../docs.md)
 
 In Lunar AI, actions are the tasks the agent can perform. These actions can be registered with intricate parameters and validation rules, ensuring that the agent always makes **valid** decisions on-chain.
 
@@ -77,8 +73,6 @@ In this example, we are registering an action that builds a farm in the game wor
 
 #### [3. Setting Up Goals and Strategies](publish-your-docs.md)
 
-
-
 Goals represent long-term objectives for your agent, which it will attempt to accomplish autonomously. Lunar AI utilizes **Chain of Thought (CoT)** processing, breaking down complex goals into achievable steps.
 
 Example: A goal to gather resources and build a defensive structure:
@@ -110,8 +104,6 @@ The agent will attempt to fulfill this goal by first gathering the required reso
 
 #### [4. Advanced Event Handling and Progress Monitoring](publish-your-docs.md)
 
-
-
 Lunar AI provides event-driven architecture, allowing you to subscribe to critical actions and monitor the agent's progress in real-time.
 
 ```java
@@ -127,4 +119,3 @@ Lunar.on("action:complete", ({ action, result }) => {
 ```
 
 With these events, you can monitor every phase of the agent’s journey, from initial thought processing to final execution.
-

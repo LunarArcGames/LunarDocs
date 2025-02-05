@@ -1,13 +1,13 @@
 # Table of contents
 
-* [Welcome to Lunar AI](README.md)
+* [Welcome to Lunar AI](docs.md)
 
 ## Getting Started
 
 * [Getting Started](getting-started/quickstart.md)
 * [How Lunar AI Works](getting-started/publish-your-docs.md)
 
-## architecture&#x20;
+## architecture
 
 * [Core Features](architecture/editor.md)
 * [Protocols and Integration](architecture/markdown.md)
@@ -15,5 +15,5 @@
 
 ## roadmap and tokenomics
 
-* [Roadmap](roadmap-and-tokenomics/interactive-blocks.md)
-* [Tokenomics](roadmap-and-tokenomics/tokenomics.md)
+* [Roadmap](roadmap/interactive-blocks.md)
+* [Tokenomics](broken-reference)

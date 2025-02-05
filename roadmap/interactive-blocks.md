@@ -4,7 +4,7 @@ icon: bullseye-arrow
 
 # Roadmap
 
-<figure><img src="../.gitbook/assets/gfhfgh.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../docs/.gitbook/assets/gfhfgh.png" alt=""><figcaption></figcaption></figure>
 
 Lunar AI is constantly evolving to bring the future of autonomous gaming to life. Here are some features to look forward to:
 

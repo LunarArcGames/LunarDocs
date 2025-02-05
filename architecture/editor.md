@@ -4,7 +4,7 @@ icon: earth-africa
 
 # Core Features
 
-<figure><img src="../.gitbook/assets/Untitled-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../docs/.gitbook/assets/Untitled-3.png" alt=""><figcaption></figcaption></figure>
 
 Lunar AI offers a range of features designed for creating highly intelligent, on-chain agents. Here's a deep dive into the most prominent ones:
 
@@ -28,8 +28,6 @@ Lunar.runCoT({
 
 #### [2. **Swarm Learning**](editor.md)
 
-
-
 Swarm rooms allow agents to share their knowledge. Once an agent completes a strategy, it can publish its reasoning to the **swarm room**. Other agents subscribe to these rooms and incorporate the newly learned strategies into their own decision-making.
 
 Example of a swarm collaboration:
@@ -47,8 +45,6 @@ Lunar.subscribeToSwarmRoom("successful_strategy");
 ```
 
 #### [3. **Advanced Memory Systems**](editor.md)
-
-
 
 The use of **vector databases** enables Lunar agents to store long-term memories of their actions, allowing them to refine their strategies over time.
 
