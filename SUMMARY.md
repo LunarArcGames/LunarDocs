@@ -1,0 +1,15 @@
+# Table of contents
+
+* [LunarDocs](README.md)
+* [Welcome to Lunar AI](docs/README.md)
+  * [Table of contents](docs/SUMMARY.md)
+  * [architecture](docs/architecture/README.md)
+    * [Core Features](docs/architecture/editor.md)
+    * [Advanced Workflow](docs/architecture/images-and-media.md)
+    * [Protocols and Integration](docs/architecture/markdown.md)
+  * [getting-started](docs/getting-started/README.md)
+    * [How Lunar AI Works](docs/getting-started/publish-your-docs.md)
+    * [Getting Started](docs/getting-started/quickstart.md)
+  * [roadmap-and-tokenomics](docs/roadmap-and-tokenomics/README.md)
+    * [Roadmap](docs/roadmap-and-tokenomics/interactive-blocks.md)
+    * [Tokenomics](docs/roadmap-and-tokenomics/tokenomics.md)
